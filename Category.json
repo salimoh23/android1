@@ -1,0 +1,38 @@
+    [
+        {
+            "id": "1",
+            "name": "Medecin"
+            
+        },
+        {
+            "id": "2",
+            "name": "Dentist"
+            
+        },
+        {
+            "id": "3",
+            "name": "Pharmacie"
+            
+        },
+        {
+            "id": "4",
+            "name": "Superrette"
+            
+        },
+        {
+            "id": "5",
+            "name": "Taxi"
+           
+        },
+        {
+            "id": "6",
+            "name": "Coiffeur"
+            
+        },
+        {
+            "id": "7",
+            "name": "Autre"
+            
+        }
+
+    ]
